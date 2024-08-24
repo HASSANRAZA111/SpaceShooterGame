@@ -9,30 +9,20 @@ Take control of a spaceship in this classic arcade-style game, where you battle 
 
 # Features:
 Object-Oriented Design: The game is built around core Object-Oriented Programming concepts, minimizing reliance on SFML's built-in graphics and focusing on custom mathematical procedures for visuals and animations.<br>
-
 Three Massive Levels: Each level consists of multiple phases with increasing difficulty, featuring three types of enemies: Alpha Invaders, Beta Invaders, and Gamma Invaders.<br>
-
 Diverse Shapes and Challenges:<br>
-
 Level 1: Includes basic shapes like rectangles, triangles, and crosses.<br>
 Level 2: Introduces more complex shapes such as circles, diamonds, and hearts.<br>
 Level 3: Combines both basic and advanced shapes, but these shapes are filled for added complexity.<br>
 Epic Boss Fights: Face off against formidable bosses, including Monsters, Dragons, and a hidden secret boss, each with unique attack patterns and strategies.<br>
-
 Lives System: Players have 3 lives before their ship is destroyed, adding to the challenge.<br>
-
 Powerful Addons: Collect random addons such as Life, Danger Sign, PowerUp, and Enhanced Fire, which temporarily upgrade your ship and weapons.<br>
-
 Scoring and Highscores: The game tracks your score, saving the top 3 highscores with file handling via the fstream library. Top scorers earn medals displayed during gameplay.<br>
-
 Immersive Details and Effects:<br>
-
 Galaxy Environment: The game features a wrap-around galaxy where your ship disappears at one edge and reappears on the opposite side.<br>
 Additional Effects: Includes periodic ship damage, screen shake, and other detailed animations.<br>
 Audio and Sound Effects: Enjoy fully functional audio with an option to toggle music on or off from the menu.<br>
-
 Comprehensive Screens: The game includes multiple screens for an immersive experience:<br>
-
 Game Menu<br>
 Instructions<br>
 Main Gameplay<br>
