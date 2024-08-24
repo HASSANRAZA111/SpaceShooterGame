@@ -23,7 +23,11 @@ High Score and Players Names Display
 End screen
 
 #Here are some images:
+
+
 ![image](https://github.com/user-attachments/assets/55ec54f4-5371-4825-bb22-1a02c5606930)
+
+
 
 ![image](https://github.com/user-attachments/assets/26434cc5-1678-4939-89d4-58f1d2e09fd0)
 
