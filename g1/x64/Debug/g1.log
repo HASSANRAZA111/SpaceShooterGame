@@ -1,0 +1,200 @@
+﻿  main.cpp
+E:\NEW ONE\g1\g1\menu.h(62,20): warning C4244: 'initializing': conversion from 'size_t' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\menu.h(63,21): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\Bullet.h(14,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\player.h(30,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\player.h(30,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\player.h(70,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\player.h(73,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\player.h(76,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\player.h(79,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\enemy.h(152,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\enemy.h(153,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\enemy.h(256,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\enemy.h(296,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\enemy.h(312,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(64,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(69,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(74,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(74,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(79,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(79,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(107,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(115,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(115,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(116,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(116,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(140,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(161,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(161,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(162,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(162,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(166,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(166,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(167,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(167,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(212,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(212,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(253,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(253,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(254,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(254,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(265,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(287,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(287,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(294,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\level.h(294,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\HighScore.h(182,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\HighScore.h(197,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(138,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(143,11): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(175,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(184,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\NEW ONE\g1\g1\game.h(184,17): warning C4244:         with
+E:\NEW ONE\g1\g1\game.h(184,17): warning C4244:         [
+E:\NEW ONE\g1\g1\game.h(184,17): warning C4244:             T=unsigned int
+E:\NEW ONE\g1\g1\game.h(184,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(185,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\NEW ONE\g1\g1\game.h(185,17): warning C4244:         with
+E:\NEW ONE\g1\g1\game.h(185,17): warning C4244:         [
+E:\NEW ONE\g1\g1\game.h(185,17): warning C4244:             T=unsigned int
+E:\NEW ONE\g1\g1\game.h(185,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(186,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\NEW ONE\g1\g1\game.h(186,17): warning C4244:         with
+E:\NEW ONE\g1\g1\game.h(186,17): warning C4244:         [
+E:\NEW ONE\g1\g1\game.h(186,17): warning C4244:             T=unsigned int
+E:\NEW ONE\g1\g1\game.h(186,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(187,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\NEW ONE\g1\g1\game.h(187,17): warning C4244:         with
+E:\NEW ONE\g1\g1\game.h(187,17): warning C4244:         [
+E:\NEW ONE\g1\g1\game.h(187,17): warning C4244:             T=unsigned int
+E:\NEW ONE\g1\g1\game.h(187,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(510,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(669,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(740,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(740,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(802,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+E:\NEW ONE\g1\g1\game.h(839,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Source.cpp
+  Generating Code...
+  g1.vcxproj -> E:\NEW ONE\g1\x64\Debug\g1.exe
