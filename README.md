@@ -40,5 +40,13 @@ End screen
 ![image](https://github.com/user-attachments/assets/32809291-92e9-40d5-ab77-18d0a53d37cd)
 
 
+#Gameplay Instructions:
+
+
+The player of the game controls a spaceship in an enemy filled space field. The goal is to destroy the enemy ships, avoiding a collision with any of them. The spaceship can fire bullets to destroy the objects in the space field. The spaceship is destroyed in case of a collision with an object (enemy ships) or impact with a bomb fired by the enemy ship. Similarly, the dragon appears after a random interval whereby its position is fixed, however, it could fire in 3 directions (downwards, right-downwards and left-downwards). The direction of the fire would also be decided on the basis of the position of the spaceship i.e. the dragon would fire in the zone where the spaceship is currently located. On the other hand, the monster’s vertical position is fixed however it can move in left and right directions. The monster will throw a beam of lightning on the spaceship after regular intervals.
+<br>
+The player can move the spaceship in any direction (right, left, up, down and diagonally). The spaceship moves in all possible directions. As an advanced move, a player can boost the spaceship into powerup mode, i.e. a spaceship cannot be destroyed and fire a continuous beam of bullets instead of periodic intervals. At the start of the game, the shape of the enemies in the space field is randomly selected. The number of enemies will be selected on the basis of that shape. Next level is achieved once all enemies in the current field are destroyed. The next level starts with a different shape and an increased number of enemies in the space field. The player is awarded three lives initially. A life is decreased if the spaceship is destroyed. The player gets points for hitting the objects. The number of remaining lives, and the score is displayed on the top of the screen.
+
+
 
 
